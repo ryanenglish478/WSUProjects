@@ -1,0 +1,8 @@
+User: 192999
+business: 11453
+category: 210
+city: 110
+contains: 11358
+review: 415861
+state: 8
+zipcode: 206
