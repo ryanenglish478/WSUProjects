@@ -1,0 +1,10 @@
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\bin\Debug\netcoreapp3.1\SpreadsheetEngine.deps.json
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\bin\Debug\netcoreapp3.1\SpreadsheetEngine.dll
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\bin\Debug\netcoreapp3.1\SpreadsheetEngine.pdb
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.csproj.AssemblyReference.cache
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.AssemblyInfo.cs
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.dll
+C:\cpts321\cpts321-hws\HW4\Spreadsheet_Ryan_English\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.pdb

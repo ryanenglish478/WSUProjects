@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HW5ConsoleApp/1.0.0": {
+        "dependencies": {
+          "SpreadsheetEngine": "1.0.0",
+          "Spreadsheet_Ryan_English": "1.0.0"
+        },
+        "runtime": {
+          "HW5ConsoleApp.dll": {}
+        }
+      },
+      "SpreadsheetEngine/1.0.0": {
+        "runtime": {
+          "SpreadsheetEngine.dll": {}
+        }
+      },
+      "Spreadsheet_Ryan_English/1.0.0": {
+        "dependencies": {
+          "SpreadsheetEngine": "1.0.0"
+        },
+        "runtime": {
+          "Spreadsheet_Ryan_English.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW5ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpreadsheetEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spreadsheet_Ryan_English/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
